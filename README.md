@@ -1,6 +1,6 @@
 _This checklist walks a new developer through our projects and build processes._
 # First Steps Checklist
-* [ ] Create a new Reify-specific GitHub account. By the time you reach this list, you should have received an invite to the Reify Health github project. Contact your manager if you've not received that invite.
+* [x] Create a new Reify-specific GitHub account. By the time you reach this list, you should have received an invite to the Reify Health github project. Contact your manager if you've not received that invite.
 * [ ] Ensure you have a private reify directory in your home directory: `mkdir -p ~/.reify`
 * [ ] Install Java JDK 11 or newer: `brew install openjdk@11`
 * [ ] Set up SSH per the instructions in [`lein-git-down`](https://github.com/reifyhealth/lein-git-down/#private-repositories-ssh-authentication):
